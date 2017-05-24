@@ -1,0 +1,1 @@
+"./tm4c123gh6pm_startup_ccs.obj" "./stop_go.obj" "../tm4c123gh6pm.cmd" -l"libc.a" 
